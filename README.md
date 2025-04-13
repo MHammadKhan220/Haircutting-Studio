@@ -1,4 +1,4 @@
 # Haircutting-Studio
-HTML 
-CSS
-Javascript
+HTML <br>
+CSS  <br>
+Javascript  <br>
